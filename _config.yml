@@ -10,9 +10,9 @@ description: Proffesional food eater, may of been drunk when making his usernmae
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://us.hellomagazine.com/imagenes/celebrities/2016060412715/muhammad-ali-dies-memorable-quotes/0-65-202/muhammad-portrait---a.jpg
-body {
+
     background-image: url("https://s-media-cache-ak0.pinimg.com/originals/5d/f0/e2/5df0e2d3a34af9f53d30fd6f18d5faba.jpg");
-}
+
 #
 # Flags below are optional
 #
